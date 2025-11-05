@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Hotel>
+    <Hotel id="H1" Rating="4.3">
+        <Name>The Westin Tempe</Name>
+        <Phone>480-968-8885</Phone>
+        <Phone>800-535-4028</Phone>
+        <Address>
+            <Number>11</Number>
+            <Street>E 7th Street</Street>
+            <City>Tempe</City>
+            <State>Arizona</State>
+            <Zip>85281</Zip>
+            <NearestAirport>Sky Harbor</NearestAirport>
+        </Address>
+    </Hotel>
+
+    <Hotel Rating="4.4">
+        <Name>Tempe Mission Palms</Name>
+        <Phone>480-894-1400</Phone>
+        <Address>
+            <Number>60</Number>
+            <Street>E 5th Street</Street>
+            <City>Tempe</City>
+            <State>Arizona</State>
+            <Zip>85281</Zip>
+            <NearestAirport>Sky Harbor</NearestAirport>
+        </Address>
+    </Hotel>
+
+    <Hotel id="H3">
+        <Name>Omni Tempe Hotel</Name>
+        <Address>
+            <Number>7</Number>
+            <Street>E University Drive</Street>
+            <City>Tempe</City>
+            <State>Arizona</State>
+            <Zip>85281</Zip>
+            <NearestAirport>Sky Harbor</NearestAirport>
+        </Address>
+    </Hotel>
+
+    <Hotel id="H4">
+        <Name>SureStay Plus Hotel</Name>
+        <Phone>480-675-9799</Phone>
+        <Address>
+            <Number>1429</Number>
+            <Street>N Scottsdale Road</Street>
+            <City>Tempe</City>
+            <State>Arizona</State>
+            <Zip>85288</Zip>
+            <NearestAirport>Sky Harbor</NearestAirport>
+    </Hotel>
+
+    <Hotel id="H5">
+        <Name>Studio 6</Name>
+        <Name>Studio 7</Name>
+        <Phone>602-838-5288</Phone>
+        <Address>
+            <Number>4909</Number>
+            <Street>S Wendler Drive</Street>
+            <City>Tempe</City>
+            <State>Arizona</State>
+            <Zip>85282</Zip>
+            <NearestAirport>Sky Harbor</NearestAirport>
+        </Address>
+    </Hotel>
+</Hotel>
