@@ -10,7 +10,6 @@
             <City>Tempe</City>
             <State>Arizona</State>
             <Zip>85281</Zip>
-            <NearestAirport>Sky Harbor</NearestAirport>
         </Address>
     </Hotel>
 
@@ -23,7 +22,6 @@
             <City>Tempe</City>
             <State>Arizona</State>
             <Zip>85281</Zip>
-            <NearestAirport>Sky Harbor</NearestAirport>
         </Address>
     </Hotel>
 
@@ -36,7 +34,6 @@
             <City>Tempe</City>
             <State>Arizona</State>
             <Zip>85281</Zip>
-            <NearestAirport>Sky Harbor</NearestAirport>
         </Address>
     </Hotel>
 
@@ -49,7 +46,6 @@
             <City>Tempe</City>
             <State>Arizona</State>
             <Zip>85288</Zip>
-            <NearestAirport>Sky Harbor</NearestAirport>
         </Address>
     </Hotel>
 
@@ -62,7 +58,6 @@
             <City>Tempe</City>
             <State>Arizona</State>
             <Zip>85282</Zip>
-            <NearestAirport>Sky Harbor</NearestAirport>
         </Address>
     </Hotel>
 
@@ -75,7 +70,6 @@
             <City>Tempe</City>
             <State>Arizona</State>
             <Zip>85282</Zip>
-            <NearestAirport>Sky Harbor</NearestAirport>
         </Address>
     </Hotel>
 
@@ -88,7 +82,6 @@
             <City>Tempe</City>
             <State>Arizona</State>
             <Zip>85282</Zip>
-            <NearestAirport>Sky Harbor</NearestAirport>
         </Address>
     </Hotel>
 
@@ -101,7 +94,6 @@
             <City>Tempe</City>
             <State>Arizona</State>
             <Zip>85288</Zip>
-            <NearestAirport>Sky Harbor</NearestAirport>
         </Address>
     </Hotel>
 
@@ -114,7 +106,6 @@
             <City>Tempe</City>
             <State>Arizona</State>
             <Zip>85281</Zip>
-            <NearestAirport>Sky Harbor</NearestAirport>
         </Address>
     </Hotel>
 
@@ -127,7 +118,6 @@
             <City>Tempe</City>
             <State>Arizona</State>
             <Zip>85282</Zip>
-            <NearestAirport>Sky Harbor</NearestAirport>
         </Address>
     </Hotel>
 </Hotels>
