@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Hotels>
-    <Hotel id="H1" Rating="4.3">
+    <Hotel Rating="4.3">
         <Name>The Westin Tempe</Name>
         <Phone>480-968-8885</Phone>
         <Phone>800-535-4028</Phone>
@@ -13,7 +13,7 @@
         </Address>
     </Hotel>
 
-    <Hotel id="H2" Rating="4.4">
+    <Hotel Rating="4.4">
         <Name>Tempe Mission Palms</Name>
         <Phone>480-894-1400</Phone>
         <Address NearestAirport="Sky Harbor">
@@ -25,7 +25,7 @@
         </Address>
     </Hotel>
 
-    <Hotel id="H3">
+    <Hotel>
         <Name>Omni Tempe Hotel</Name>
         <Phone>602-794-8600</Phone>
         <Address NearestAirport="Sky Harbor">
@@ -37,7 +37,7 @@
         </Address>
     </Hotel>
 
-    <Hotel id="H4">
+    <Hotel>
         <Name>SureStay Plus Hotel</Name>
         <Phone>480-675-9799</Phone>
         <Address NearestAirport="Sky Harbor">
@@ -49,7 +49,7 @@
         </Address>
     </Hotel>
 
-    <Hotel id="H5">
+    <Hotel>
         <Name>Studio 6</Name>
         <Phone>602-838-5288</Phone>
         <Address NearestAirport="Sky Harbor">
@@ -61,7 +61,7 @@
         </Address>
     </Hotel>
 
-    <Hotel id="H6">
+    <Hotel>
         <Name>DoubleTree</Name>
         <Phone>480-967-1441</Phone>
         <Address NearestAirport="Sky Harbor">
@@ -73,7 +73,7 @@
         </Address>
     </Hotel>
 
-    <Hotel id="H7">
+    <Hotel>
         <Name>Sonesta ES Suites</Name>
         <Phone>480-756-2122</Phone>
         <Address NearestAirport="Sky Harbor">
@@ -85,7 +85,7 @@
         </Address>
     </Hotel>
 
-    <Hotel id="H8">
+    <Hotel>
         <Name>Tempe Oasis</Name>
         <Phone>480-219-9837</Phone>
         <Address NearestAirport="Sky Harbor">
@@ -97,7 +97,7 @@
         </Address>
     </Hotel>
 
-    <Hotel id="H9" Rating="4.3">
+    <Hotel Rating="4.3">
         <Name>Hyatt Place Tempe</Name>
         <Phone>480-207-1578</Phone>
         <Address NearestAirport="Sky Harbor">
@@ -109,7 +109,7 @@
         </Address>
     </Hotel>
 
-    <Hotel id="H10" Rating="4.1">
+    <Hotel Rating="4.1">
         <Name>Embassy Suites</Name>
         <Phone>480-897-7444</Phone>
         <Address NearestAirport="Sky Harbor">
