@@ -9,7 +9,7 @@
             <Street>E 7th Street</Street>
             <City>Tempe</City>
             <State>Arizona</State>
-            <Zip>85281</Zip>
+            <Zipcode>85281</Zipcode>
             <NearestAirport>Sky Harbor</NearestAirport>
         </Address>
     </Hotel>
@@ -22,7 +22,7 @@
             <Street>E 5th Street</Street>
             <City>Tempe</City>
             <State>Arizona</State>
-            <Zip>85281</Zip>
+            <Zipcode>85281</Zipcode>
             <NearestAirport>Sky Harbor</NearestAirport>
         </Address>
     </Hotel>
@@ -35,7 +35,7 @@
             <Street>E University Drive</Street>
             <City>Tempe</City>
             <State>Arizona</State>
-            <Zip>85281</Zip>
+            <Zipcode>85281</Zipcode>
             <NearestAirport>Sky Harbor</NearestAirport>
         </Address>
     </Hotel>
@@ -48,7 +48,7 @@
             <Street>N Scottsdale Road</Street>
             <City>Tempe</City>
             <State>Arizona</State>
-            <Zip>85288</Zip>
+            <Zipcode>85288</Zipcode>
             <NearestAirport>Sky Harbor</NearestAirport>
         </Address>
     </Hotel>
@@ -61,7 +61,7 @@
             <Street>S Wendler Drive</Street>
             <City>Tempe</City>
             <State>Arizona</State>
-            <Zip>85282</Zip>
+            <Zipcode>85282</Zipcode>
             <NearestAirport>Sky Harbor</NearestAirport>
         </Address>
     </Hotel>
@@ -74,7 +74,7 @@
             <Street>S Priest Drive</Street>
             <City>Tempe</City>
             <State>Arizona</State>
-            <Zip>85282</Zip>
+            <Zipcode>85282</Zipcode>
             <NearestAirport>Sky Harbor</NearestAirport>
         </Address>
     </Hotel>
@@ -87,7 +87,7 @@
             <Street>S Priest Drive</Street>
             <City>Tempe</City>
             <State>Arizona</State>
-            <Zip>85282</Zip>
+            <Zipcode>85282</Zipcode>
             <NearestAirport>Sky Harbor</NearestAirport>
         </Address>
     </Hotel>
@@ -100,7 +100,7 @@
             <Street>N Scottsdale Road</Street>
             <City>Tempe</City>
             <State>Arizona</State>
-            <Zip>85288</Zip>
+            <Zipcode>85288</Zipcode>
             <NearestAirport>Sky Harbor</NearestAirport>
         </Address>
     </Hotel>
@@ -113,7 +113,7 @@
             <Street>E 6th Street</Street>
             <City>Tempe</City>
             <State>Arizona</State>
-            <Zip>85281</Zip>
+            <Zipcode>85281</Zipcode>
             <NearestAirport>Sky Harbor</NearestAirport>
         </Address>
     </Hotel>
@@ -126,7 +126,7 @@
             <Street>S Rural Road</Street>
             <City>Tempe</City>
             <State>Arizona</State>
-            <Zip>85282</Zip>
+            <Zipcode>85282</Zipcode>
             <NearestAirport>Sky Harbor</NearestAirport>
         </Address>
     </Hotel>
